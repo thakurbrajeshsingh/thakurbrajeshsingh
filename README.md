@@ -15,7 +15,7 @@
 
 <!-- ## ❤ Views and Followers -->
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/thakurbrajeshsingh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thakurbrajeshsingh">
 </a>
 

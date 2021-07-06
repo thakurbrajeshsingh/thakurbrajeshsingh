@@ -1,8 +1,5 @@
-<h1 align="center">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
 <a href="#"><img width="100%" height="auto" src="./images/banner.gif" height="175px"/></a>
-
-
+<h1 align="center">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## Connect with me:
 <p align="left">

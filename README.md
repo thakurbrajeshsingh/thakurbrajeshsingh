@@ -1,7 +1,7 @@
 
 ![Github banner (3)](./images/banner.gif)<a href="#"></a>
 
-<h1 align="center">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## Connect with me:
 <p align="left">

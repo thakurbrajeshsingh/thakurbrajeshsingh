@@ -1,5 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="./images/banner.gif" height="175px"/></a>
-<h1 align="center">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+![Github banner (3)](./images/banner.gif)<a href="#"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+
+<h1 align="center">Hi there, I'm Brajesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="130px"></h1>
 
 ## Connect with me:
 <p align="left">

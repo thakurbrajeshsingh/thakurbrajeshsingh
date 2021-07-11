@@ -22,7 +22,7 @@
 <br>
 <!-- ## 🙋‍♂️ About Me -->
 
-- 🔭 I’m currently intern at **[LPV WELTWEIT](http://www.lpvweltweit.com/)**
+- 🔭 I’m currently SDE-1 intern at **[one24](https://www.one24store.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
